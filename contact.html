@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact Us</title>
+        <link rel="stylesheet" type="text/css" href="assets/font-awesome/css/font-awesome.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="keywords" content="shoes, shoe-store,sneaker-verse, coantact me,message service,model selection, choose size, choose brand, send us feedback"/>
+        <meta name="description" content="Contact us is page where you can ask as anything about any size or model of shoe. Feel free to ask us!" />
+        <meta name="Vladimir Lobanov" content="Contact Us page" />
+        <link rel="icon" type="image/x-icon" href="assets/img/favv.ico">
+    </head>
+    <body>
+        <header>
+            <div id="menu-bar" class="fa fa-bars"></div>
+            <a href="index.html" class="logo"><span>SNEAKER VERSE</span></a>
+            <nav class="navbar" id="ispis">
+
+            </nav>
+            <div class="icons">
+                <a href="cart.html"><i class="fa fa-shopping-cart"></i></a><span class="num-proizvoda"></span>
+            </div>
+        </header>
+        <section class="featured">
+            <h1 class="heading" style="margin-top: 50px;"><span></span></h1>
+            <div class="row">
+                <div class="content">
+                    <form id="forma">
+                        <h2>Which model are you interested in?</h2>
+                        <h3 id="uredi">Contact us!</h3>
+                        <div class="form-group">
+                            <label for="ime">Ime: </label>
+                            <input type="text" id="ime" placeholder="Vladimir" class="form-control">
+                            <p class="alert alert-danger sakrij"></p>  
+                        </div>
+                        <div class="form-group">
+                            <label for="prezime">Prezime: </label>
+                            <input type="text" id="prezime" placeholder="Lobanov" class="form-control">
+                            <p class="alert alert-danger sakrij"></p>  
+                        </div>
+                        <div class="form-group">
+                            <label for="mejl">Email: </label>
+                            <input type="text" id="mejl" placeholder="Enter email.." class="form-control">
+                            <p class="alert alert-danger sakrij"></p>  
+                        </div>
+                        <div class="form-group" id="ispis-dropVelicina">
+                           
+                        </div>
+                        <p class="alert alert-danger sakrij"></p>  
+                        <div class="form-group" id="ispis-dropModel">
+
+                        </div>
+                        <p class="alert alert-danger sakrij"></p>  
+                        <p id="radio">Recieve email notifications.</p>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="rb1" id="radio1" value="y">
+                            <label class="form-check-label" for="rb1">Yes</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="rb1" id="radio2" value="n">
+                            <label class="form-check-label" for="rb1">No</label>
+                          </div>
+                          <p class="alert alert-danger sakrij"></p>  
+
+                          <div class="form-check"  id="uredjivanje">
+                            <input class="form-check-input" type="checkbox" value="accepted policy" id="cek" name="chbTerms">
+                            <label class="form-check-label cekovi" for="cek">
+                              Privacy and policy terms.
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="accepted terms" id="cek2" name="chbTerms">
+                            <label class="form-check-label cekovi" for="cek2">
+                              I accept terms of use.
+                            </label>
+                          </div>
+                          <p class="alert alert-danger sakrij"></p>  
+
+                          <input class="btn btn-primary" type="button" id="Posalji" value="Send">
+                    </form>
+                    <div id="ispis-forme"></div>
+                </div>
+                <div class="image-container">
+                    <div class="big-image" id="jquery-slika">
+                        <img src="assets/img/form.jpg" alt="Contact form picture" class="big-image-1 form-pic">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="cridet" id="cridet">
+            <div class="box">
+                <h3>&copy; All rights reserved by Vladimir Lobanov</h3>
+            </div>
+            <div id="mojeIkone">
+
+            </div>
+        </section>
+        <a href="#" class="scroll-to-top"><i class="fa fa-chevron-up"></i></a>
+        <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+        <script src="assets/js/moj-ajax.js"></script>
+        <script src="assets/js/script.js"></script>
+        <script src="assets/js/mojJs.js"></script>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "naziv": "Ralph Lauren"
+    },
+    {
+        "id": 2,
+        "naziv": "Lacoste"
+    },
+    {
+        "id": 3,
+        "naziv": "Calvin Klein"
+    },
+    {
+        "id": 4,
+        "naziv": "Tommy Hilfiger"
+    },
+    {
+        "id": 5,
+        "naziv": "New Balance"
+    },
+    {
+        "id": 6,
+        "naziv": "Hugo Boss"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "href": "index.html",
+        "naziv": "Home"
+    },
+    {
+        "href": "shop.html",
+        "naziv": "Shop"
+    },
+    {
+        "href": "author.html",
+        "naziv": "Author"
+    },
+    {
+        "href": "contact.html",
+        "naziv": "Contact Us"
+    },
+    {
+        "href": "DOKUMENTACIJA_WEB2_NOVAA.pdf",
+        "naziv": "Documentation"
+    }
+]

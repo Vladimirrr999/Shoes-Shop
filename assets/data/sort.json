@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "naziv": "Price Higher to Lower"
+    },
+    {
+        "id": 2,
+        "naziv": "Price Lower to Higher"
+    },
+    {
+        "id": 3,
+        "naziv": "Name A-Z"
+    },
+    {
+        "id": 4,
+        "naziv": "Name Z-A"
+    },
+    {
+        "id": 5,
+        "naziv": "Najnovije"
+    },
+    {
+        "id": 6,
+        "naziv": "Najstarije"
+    }
+]

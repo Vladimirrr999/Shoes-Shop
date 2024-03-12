@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "naziv": "Rush",
+        "opis": "Gucci Rush od Gucci je chypre vocni miris za zene.",
+        "kategorije": [1,2],
+        "slika": {
+            "src": "rush.jpg",
+            "alt": "rush"
+        },
+        "cena":{
+            "prePopusta": 100,
+            "trenutna": 89
+        },
+        "brend": 1,
+        "besplatnaDostava": false
+    },
+    {
+        "id": 2,
+        "naziv": "Narciso",
+        "opis": "Originalna nota cilibara se spaja sa jedinstveno snaznom vanilom u apsolutno bogatu teksturu.",
+        "kategorije": [3,4],
+        "slika": {
+            "src": "narciso.jpg",
+            "alt": "Narciso"
+        },
+        "cena":{
+            "prePopusta": 50,
+            "trenutna": 20
+        },
+        "brend": 3,
+        "besplatnaDostava": true
+    },
+    {
+        "id": 3,
+        "naziv": "Eros",
+        "opis": "Versace je lansirao Eros - miris inspirisan i duboko povezan sa grckom mitologijom.",
+        "kategorije": [1],
+        "slika": {
+            "src": "eros.jpg",
+            "alt": "Eros"
+        },
+        "cena":{
+            "prePopusta": 20,
+            "trenutna": 15
+        },
+        "brend": 2,
+        "besplatnaDostava": false
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "slika": "assets/img/team/1.png",
+        "ime": "Jhina Volker",
+        "tekst": "Not able to tell you how happy I am with shoes. Shoes is worth much more than I paid. Thanks guys, keep up the good work! - Leslie K.",
+        "zvezdice": {
+            "broj": 5,
+            "link":  "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "slika": "assets/img/team/2.png",
+        "ime": "Jake Paul",
+        "tekst": "This is unbelievable. After using Testiminial Generator my buisness skyrocketed! Rick E.",
+        "zvezdice": {
+            "broj": 4,
+            "link":  "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "slika": "assets/img/team/3.png",
+        "ime": "Mauricio Paul",
+        "tekst": "Thank you for making it painless, pleasant and most of all hassle free! I wish I would have thought of it first. I like shoes more and more each day because it makes my life a lot easier. Shoes is exactly what our business has been lacking. - Mauricio X.",
+        "zvezdice": {
+            "broj": 5,
+            "link":  "<i class='fa fa-star'></i>"
+        }
+    }
+
+]

@@ -1,0 +1,30 @@
+{
+    "naslov": "New",
+    "obojeniDeoNaslova": "Product",
+    "slika": [
+        { 
+            "src": "assets/img/product1/shoe-big.png",
+            "alt": "Side-look shoe"
+        },
+        {
+            "src": "assets/img/product1/shoe-big2.png",
+            "alt": "2 shoes in picture"
+        },
+        {
+            "src": "assets/img/product1/shoe-big3.png",
+            "alt": "Top view of shoe"
+        },
+        {
+            "src": "assets/img/product1/shoe-big4.png",
+            "alt": "Rear view of shoe"
+        }
+    ],
+    "velikaSlika": "assets/img/product1/shoe-big.png",
+    "sadrzaj": "new huggo boss",
+    "zvezdice": {
+        "broj": 5,
+        "link": "<i class='fa fa-star'></i>"
+    },
+    "tekst": "What can be better then soft and great walking experience?Choose best for yourself, the newest and featured product is finally here!",
+    "cena": 90
+}

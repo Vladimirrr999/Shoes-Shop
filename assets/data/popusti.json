@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "iznos": "-15%",
+        "klasa": "popust"
+    },
+    {
+        "id": 2,
+        "iznos": "-25%",
+        "klasa": "popust"
+    },
+    {
+        "id": 3,
+        "iznos": "-39%",
+        "klasa": "popust"
+    },
+    {
+        "id": 4,
+        "iznos": "-35%",
+        "klasa": "popust"
+    },
+    {
+        "id": 5,
+        "iznos": "-50%",
+        "klasa": "popust"
+    }
+]

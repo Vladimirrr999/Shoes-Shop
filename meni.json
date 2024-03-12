@@ -1,0 +1,18 @@
+[
+    {
+        "tekst": "Pocetna",
+        "href": "index.html"
+    },
+    {
+        "tekst": "Proizvodi",
+        "href": "proizvodi.html"
+    },
+    {
+        "tekst": "Usluge",
+        "href": "usluge.html"
+    },
+    {
+        "tekst": "Kontakt",
+        "href": "kontakt.html"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "naziv": "Ralph Lauren Black-R",
+        "slika": "../assets/img/product4/ralph-new.png",
+        "brendId": 1,
+        "popustId": 1,
+        "velicine": [7,8,9,10],
+        "polId": 1,
+        "cena": {
+            "staraCena": 250,
+            "novaCena": 200
+        },
+        "godinaDodavanja": 2020,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        },
+        "tag": "New"
+    },
+    {
+        "id": 2,
+        "naziv": "Lacoste-Olive",
+        "slika": "../assets/img/product4/lacoste-new.png",
+        "brendId": 2,
+        "popustId": null,
+        "velicine": [7,8,9,10,5],
+        "polId": 1,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 420
+        },
+        "godinaDodavanja": 2020,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        },
+        "tag": "New"
+    },
+    {
+        "id": 3,
+        "naziv": "Calvin Klein WB",
+        "slika": "../assets/img/product4/ck-new.png",
+        "brendId": 3,
+        "popustId": null,
+        "velicine": [3,7,8,9,10],
+        "polId": 1,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 250
+        },
+        "godinaDodavanja": 2019,
+        "zvezdice": {
+            "broj": "4",
+            "link": "<i class='fa fa-star'></i>"
+        },
+        "tag": "New"
+    },
+    {
+        "id": 4,
+        "naziv": "Evolve Tommy-Y",
+        "slika": "../assets/img/product4/evolve-new.png",
+        "brendId": 4,
+        "popustId": 2,
+        "velicine": [9,8,7,6,5,4],
+        "polId": 1,
+        "cena": {
+            "staraCena": 550,
+            "novaCena": 420
+        },
+        "godinaDodavanja": 2021,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        },
+        "tag": "New"
+    },
+    {
+        "id": 5,
+        "naziv": "New Balance Squad",
+        "slika": "../assets/img/product4/balance-new.png",
+        "brendId": 5,
+        "popustId": 3,
+        "velicine": [9,8,7,6,5,4],
+        "polId": 1,
+        "cena": {
+            "staraCena": 320,
+            "novaCena": 190
+        },
+        "godinaDodavanja": 2022,
+        "zvezdice": {
+            "broj": "3",
+            "link": "<i class='fa fa-star'></i>"
+        },
+        "tag": "New"
+    },
+    {
+        "id": 6,
+        "naziv": "Boss-Gold Ed.",
+        "slika": "../assets/img/product4/boss-new.png",
+        "brendId": 6,
+        "popustId": null,
+        "velicine": [9,8,7,6,5],
+        "polId": 1,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 430
+        },
+        "godinaDodavanja": 2018,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        },
+        "tag": "New"
+    },
+    {
+        "id": 7,
+        "naziv": "Calvin Klein - WP",
+        "slika": "../assets/img/product4/ck-woman.png",
+        "brendId": 3,
+        "popustId": null,
+        "velicine": [9,8,7,6,5,4,3],
+        "polId": 2,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 150
+        },
+        "godinaDodavanja": 2017,
+        "zvezdice": {
+            "broj": "4",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 8,
+        "naziv": "Calvin Klein - W1244",
+        "slika": "../assets/img/product4/ck-woman2.png",
+        "brendId": 3,
+        "popustId": null,
+        "velicine": [9,8,7,6,5,2],
+        "polId": 2,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 130
+        },
+        "godinaDodavanja": 2020,
+        "zvezdice": {
+            "broj": "2",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 9,
+        "naziv": "Tommy Hilfiger RW",
+        "slika": "../assets/img/product4/evolve-tomy.png",
+        "brendId": 4,
+        "popustId": null,
+        "velicine": [11,10,9,8,7,6,5,4],
+        "polId": 2,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 330
+        },
+        "godinaDodavanja": 2015,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 10,
+        "naziv": "Tommy H Woman",
+        "slika": "../assets/img/product4/evolve-tomy2.png",
+        "brendId": 4,
+        "popustId": 4,
+        "velicine": [9,8,7,6,5,4],
+        "polId": 2,
+        "cena": {
+            "staraCena": 330,
+            "novaCena": 290
+        },
+        "godinaDodavanja": 2016,
+        "zvezdice": {
+            "broj": "4",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 11,
+        "naziv": "New Balance PH",
+        "slika": "../assets/img/product4/new-b.png",
+        "brendId": 5,
+        "popustId": null,
+        "velicine": [6,5,4,3,2,1],
+        "polId": 2,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 290
+        },
+        "godinaDodavanja": 2014,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 12,
+        "naziv": "Polo USA",
+        "slika": "../assets/img/product4/polo-z.png",
+        "brendId": 1,
+        "popustId": null,
+        "velicine": [9,8,7,6,5,4],
+        "polId": 2,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 350
+        },
+        "godinaDodavanja": 2013,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 13,
+        "naziv": "Ralph-Polo Z",
+        "slika": "../assets/img/product4/polo-z2.png",
+        "brendId": 1,
+        "popustId": null,
+        "velicine": [9,8,7,6,5,4,3,2],
+        "polId": 2,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 170
+        },
+        "godinaDodavanja": 2016,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 14,
+        "naziv": "Kids Polo R",
+        "slika": "../assets/img/product4/polo-kids.png",
+        "brendId": 1,
+        "popustId": 5,
+        "velicine": [9,8,7,6,5,4,3,2],
+        "polId": 3,
+        "cena": {
+            "staraCena": 250,
+            "novaCena": 140
+        },
+        "godinaDodavanja": 2022,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 15,
+        "naziv": "Lauren Kids",
+        "slika": "../assets/img/product4/polo-kids2.png",
+        "brendId": 1,
+        "popustId": null,
+        "velicine": [8,7,6,5,4,3,2,1],
+        "polId": 3,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 110
+        },
+        "godinaDodavanja": 2018,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 16,
+        "naziv": "Lauren Kids 2PR",
+        "slika": "../assets/img/product4/polo-kids3.png",
+        "brendId": 1,
+        "popustId": null,
+        "velicine": [8,7,6,5,4,3,2,1],
+        "polId": 3,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 130
+        },
+        "godinaDodavanja": 2016,
+        "zvezdice": {
+            "broj": "4",
+            "link": "<i class='fa fa-star'></i>"
+        } 
+    },
+    {
+        "id": 17,
+        "naziv": "Ralph kids Zen",
+        "slika": "../assets/img/product4/polo-kids4.png",
+        "brendId": 1,
+        "popustId": null,
+        "velicine": [8,7,6,5,4,3,2,1],
+        "polId": 3,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 260
+        },
+        "godinaDodavanja": 2021,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    },
+    {
+        "id": 18,
+        "naziv": "Boss Premium",
+        "slika": "../assets/img/product4/boss-2.png",
+        "brendId": 6,
+        "popustId": null,
+        "velicine": [11,10,9,8,7,6,5,4],
+        "polId": 1,
+        "cena": {
+            "staraCena": null,
+            "novaCena": 540
+        },
+        "godinaDodavanja": 2023,
+        "zvezdice": {
+            "broj": "5",
+            "link": "<i class='fa fa-star'></i>"
+        }
+    }
+]

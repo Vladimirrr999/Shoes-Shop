@@ -1,0 +1,22 @@
+[
+    {
+        "href": "https://www.instagram.com/",
+        "naziv": "<i class= 'fa fa-instagram'></i>"
+    },
+    {
+        "href": "https://twitter.com/",
+        "naziv": "<i class='fa fa-twitter'></i>"
+    },
+    {
+        "href": "https://mail.google.com/",
+        "naziv": "<i class='fa fa-google'></i>"
+    },
+    {
+        "href": "hhttps://www.linkedin.com/",
+        "naziv": "<i class='fa fa-linkedin'></i>"
+    },
+    {
+        "href": "../../root/sitemap.xml",
+        "naziv": "<i class='fa fa-sitemap'></i>"
+    }
+]
